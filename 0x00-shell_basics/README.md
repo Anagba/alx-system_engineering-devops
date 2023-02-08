@@ -11,10 +11,10 @@ ls -ln- Display current directory contents.
     with user and group IDs displayed numerically
     And hidden files (starting with .)
 mkdir- Create a script that creates a directory named my first directory in the /tmp/ directory.
-mv- Move the file betty from /tmp/ to /tmp/my_first_directory.
+mv- Move the file betty from /tmp/ to /tmp/my first directory.
 rm -r-Delete the file betty.
 
     The file betty is in /tmp/my_first_directory
 rmdir - can be used to delete an empty directory
-cd .. -to go back the previous directory
+cd ./ -to go back the previous directory
 
