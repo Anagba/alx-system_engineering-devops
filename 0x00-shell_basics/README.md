@@ -1,2 +1,3 @@
 My first commit
-this print's the absolute pathname of the current working directory
+pwd-this print's the absolute pathname of the current working directory
+ls-this displays the files and directories with a directory
