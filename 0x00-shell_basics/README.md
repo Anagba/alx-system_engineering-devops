@@ -15,4 +15,6 @@ mv- Move the file betty from /tmp/ to /tmp/my_first_directory.
 rm -r-Delete the file betty.
 
     The file betty is in /tmp/my_first_directory
-rm -r- can be used to delete a directory even if it is not empty
+rmdir - can be used to delete an empty directory
+cd .. -to go back the previous directory
+
