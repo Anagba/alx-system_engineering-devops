@@ -11,4 +11,8 @@ ls -ln- Display current directory contents.
     with user and group IDs displayed numerically
     And hidden files (starting with .)
 mkdir- Create a script that creates a directory named my first directory in the /tmp/ directory.
+mv- Move the file betty from /tmp/ to /tmp/my_first_directory.
+rm -r-Delete the file betty.
+
+    The file betty is in /tmp/my_first_directory
 
