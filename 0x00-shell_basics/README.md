@@ -18,5 +18,6 @@ rm -r-Delete the file betty.
 rmdir - can be used to delete an empty directory
 cd ./ -to go back the previous directory
 ls -la . .. /boot-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
-ls -i- prints the type of the file named iamafile
+file -s- prints the type of the file named iamafile
+ln -s- to create a symbolic link
 
