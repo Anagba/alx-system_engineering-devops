@@ -12,4 +12,10 @@ chmod 007-
     Owner: no permission at all
     Group: no permission at all
     Other users: all the permissions
+chmod -R +X -execute permission to all subdirectories of the current directory for the owner, the group owner and all other user
 
+chmod -m751 my_dir-creates a directory called my_dir with permissions 751 in the working directory.
+
+chgrp school hello-Write a script that changes the group owner to school for the file hello
+
+        -script that adds execution permission to the owner, the group owner and the other users, to the file  
